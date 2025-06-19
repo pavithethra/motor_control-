@@ -1,4 +1,4 @@
-#include <stm32f10x.h>
+addd#include <stm32f10x.h>
 int temp_adc = 0;
 float temperature = 0;
 void delay(unsigned long int x)
